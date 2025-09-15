@@ -7,7 +7,7 @@ I'm a Software Developer at SEM with a background in Computer Science and hands-
   - Dean’s List 2023–2024  
 
 ## 💼 Work Experience  
-- **Software Developer – SEM** *(2025–Present)*  
+- **Software Developer GIS – SEM** *(2025–Present)*  
   Building scalable software solutions and contributing to modern development practices.  
 - **System Engineer – Weevva** *(2025)*  
   Contributed to AWS serverless microservices, containerization with Docker/ECS, and backend optimizations.  
@@ -15,14 +15,14 @@ I'm a Software Developer at SEM with a background in Computer Science and hands-
   Developed Python pipelines for GNSS research, automated data conversion, and built visualizations.  
 - **Database Administrator – MUN** *(2024)*  
   Designed validation workflows, automated cleaning, and managed secure research datasets.  
-- **Software Developer (Co-op) – WSP** *(2023–2024)*  
+- **Software Developer GIS (Co-op) – WSP** *(2023–2024)*  
   Modernized weather portal with React, optimized PostgreSQL, built secure APIs, and integrated AWS.  
-- **Web Developer – MUNSU** *(2022)*  
+- **Web Developer – MUN Student Union** *(2022)*  
   Redesigned website with a responsive approach and improved student accessibility.  
 
 ## 🛠️ Tech & Tools  
-- **Languages:** Python, JavaScript, TypeScript, Java, SQL  
-- **Frameworks:** React, Node.js, Next.js, Flutter, Express.js  
+- **Languages:** Python, JavaScript, TypeScript, Java, SQL, C#  
+- **Frameworks:** React, Node.js, Next.js, Flutter, Express.js, ASP.NET  
 - **Cloud/DevOps:** AWS (Lambda, S3, DynamoDB, ECS, Fargate), Docker, GitHub Actions  
 - **Databases:** PostgreSQL, MongoDB, Supabase, Firebase  
 
